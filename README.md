@@ -59,3 +59,7 @@ TODO: A brief overview guide of some technologies integrated into popular web ap
 <hr />
 
 ## 11. <a name="supplemental">Supplemental Resources</a>
+
+* *[AI Architecture Model Overview Guide](https://github.com/chaseofthejungle/AI-Architecture-Model-Overview)*
+* *[Four AI Model Types Overview Guide](https://github.com/chaseofthejungle/four-ai-models-overview)*
+* *[Overview of Database Types](https://github.com/chaseofthejungle/types-of-databases)*
